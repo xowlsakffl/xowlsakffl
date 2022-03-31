@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=fa991c&height=200&section=header&text=Ams Github&fontSize=90&FontColor=032539" />
+
+## Profile 👋
+<img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=KAKAO&logoColor=white"/>
+
+<b>Hi, I'm a full stack developer using php and javascript
+<br>
+  I have 2 years of experience and am currently preparing for a job change
+</b>
 
 <!--
 **xowlsakffl/xowlsakffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
