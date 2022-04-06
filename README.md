@@ -4,6 +4,11 @@
 <img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/xowls5808@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 <br>
 <br>
+<b>안녕하세요. 3년차 풀스택 웹개발자 안민성입니다.<br>
+  개발자로써 저의 모토는 책임감입니다.<br>
+  좋은 만남을 기대합니다.<b>
+
+<br>
 <br>
 
 ## 스킬
