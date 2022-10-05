@@ -1,4 +1,5 @@
-![AMS PORTFOLIO](https://user-images.githubusercontent.com/50791439/193979030-b514412a-fbab-4b75-8df8-b6cf6af5d4ae.png)
+![캡처](https://user-images.githubusercontent.com/50791439/193979888-4c1c6f75-417e-488a-9e2c-a1399f77a30c.PNG)
+
 
 # 소개 👋
 <img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/xowls5808@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
