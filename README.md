@@ -1,4 +1,5 @@
-![캡처](https://user-images.githubusercontent.com/50791439/193979888-4c1c6f75-417e-488a-9e2c-a1399f77a30c.PNG)
+![캡처](https://user-images.githubusercontent.com/50791439/194307343-e1b09281-d648-45e5-b1b5-baba8d6552dd.PNG)
+
 
 
 # 소개 👋
