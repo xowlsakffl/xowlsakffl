@@ -21,7 +21,7 @@
 
 ## 경력
 <ul>
-  <li>:clipboard: <b>2022년 하반기 : 기존 마켓플레이스 보완, 에브리북(sns) 개발, 에브리잡(채용 플랫폼) 개발 </b></li>
+  <li>:clipboard: <b>2022년 하반기 : 기존 마켓플레이스 보완, 에브리북(sns) 개발, 에브리잡(채용 플랫폼) 개발, 반려견 플랫폼 유지보수 및 개발</b></li>
   <li>:clipboard: <b>2022년 상반기 : 사내 ERP(조직 전산관리)개발</b></li>
   <li>:clipboard: <b>2021년 하반기 : 백락온(쇼핑몰) 개발(관리자 포함)</b></li>
   <li>:clipboard: <b>2021년 상반기 : 이벤츠팩 홈페이지 제작 솔루션 개발(RESTful api), 글로벌인재포럼 웹사이트 개발, 다수의 행사 웹사이트 개발(참가 등록, 관리자 포함)</b></li>
@@ -35,6 +35,7 @@
 
 ## 기록
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xowlsakffl&layout=compact)](https://github.com/xowlsakffl/github-readme-stats)
 
 <!--
 **xowlsakffl/xowlsakffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
