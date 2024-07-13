@@ -1,3 +1,12 @@
+# 📜 안민성 포트폴리오
+
+# 👋 Intro
+
+> 안녕하세요. 4년차 PHP 개발자 안민성입니다!  
+> 대표적으로 쇼핑몰, 이벤츠팩(커스텀 웹 제작 프로그램), 제니스(광고 관리 프로그램) 개발 경험이 있습니다.
+> 각 소스에 대한 설명이 부족한 점이 많습니다. 보안적인 측면에서도 누락된 부분이 많으니 양해바랍니다.
+
+<br />
 
 ## 이메일
 <img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/xowls5808@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
