@@ -1,6 +1,3 @@
-![캡처](https://user-images.githubusercontent.com/50791439/194307343-e1b09281-d648-45e5-b1b5-baba8d6552dd.PNG)
-
-
 
 # 소개 👋
 <img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/xowls5808@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
