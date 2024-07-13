@@ -42,11 +42,6 @@
 <br>
 <br>
 <br>
-
-## 기록
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xowlsakffl&layout=compact)](https://github.com/xowlsakffl/github-readme-stats)
-
 <!--
 **xowlsakffl/xowlsakffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
