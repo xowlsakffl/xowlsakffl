@@ -1,4 +1,5 @@
 # 📜 안민성 포트폴리오
+![캡처](https://github.com/user-attachments/assets/05cb4ad3-f09c-4ba2-9e3d-51cdd6df382a)
 
 # 👋 소개
 안녕하세요. 4년차 PHP 개발자 안민성입니다.<br>
