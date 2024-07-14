@@ -1,4 +1,4 @@
-![캡처](https://github.com/user-attachments/assets/56bf1046-a658-45b8-a01e-0654bbeaadf4)
+![캡처](https://github.com/user-attachments/assets/7dc76005-b7b5-42e3-a848-1f77e405827e)
 
 # 👋 소개
 안녕하세요. 4년차 PHP 개발자 안민성입니다.<br>
