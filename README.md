@@ -1,17 +1,17 @@
 ![캡처11](https://github.com/user-attachments/assets/658b4a3a-30ab-4517-8e55-8ae0a5db61fd)
 
-# 👋 Intro
+# 👋 Intro 
 안녕하세요. 4년차 JAVA, PHP 개발자 안민성입니다.<br>
 **책임**은 행동의 무게를 더해주는 가치입니다.<br>
 모든 행동에 책임감있게 임하겠습니다.
-<br />
+<br><br>
 
-## Email
+## 📧 Email
 <img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/xowls5808@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 <br>
 <br>
 
-## Skill
+## ⛏️ Skill
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-## Career
+## 🏢 Career
 <ul>
   <li>:clipboard: <b>2024년 하반기 : 광고사와 협업중(프리랜서)</b></li>
   <li>:clipboard: <b>2024년 상반기 : 광고 관리 프로그램 유지보수</b></li>
