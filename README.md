@@ -1,7 +1,7 @@
 ![캡처11](https://github.com/user-attachments/assets/658b4a3a-30ab-4517-8e55-8ae0a5db61fd)
 
 # 👋 Intro 
-안녕하세요. 4년차 JAVA, PHP 개발자 안민성입니다.<br>
+안녕하세요. 4년차 PHP, JAVA 개발자 안민성입니다.<br>
 **책임**은 행동의 무게를 더해주는 가치입니다.<br>
 모든 행동에 책임감있게 임하겠습니다.
 <br><br>
