@@ -27,7 +27,7 @@
 <ul>
   <li>:clipboard: <b>2024년 하반기 : 광고사와 협업중(프리랜서)</b></li>
   <li>:clipboard: <b>2024년 상반기 : 광고 관리 프로그램 유지보수</b></li>
-  <li>:clipboard: <b>2023년 하반기 : 광고 관리 사용자 커스텀 반복 스케줄러 개발</b></li>
+  <li>:clipboard: <b>2023년 하반기 : 광고 관리 사용자 커스텀 반복 스케줄러 개발</b> [코드 보러가기] (https://github.com/xowlsakffl/php_ci4_zenith)</li>
   <li>:clipboard: <b>2023년 상반기 : DB 관리 프로그램, 페이스북, 카카오, 구글 광고 api 관리 프로그램 개발</b></li>
   <li>:clipboard: <b>2022년 하반기 : 기존 마켓플레이스 보완(개인 실습), 반려견 플랫폼 유지보수 및 기능 개발(프리랜서)</b></li>
   <li>:clipboard: <b>2022년 상반기 : 사내 ERP(조직 전산관리)개발</b></li>
