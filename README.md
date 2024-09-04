@@ -4,7 +4,7 @@
 안녕하세요. 4년차 PHP, JAVA 개발자 안민성입니다.<br>
 **책임**은 행동의 무게를 더해주는 가치입니다.<br>
 모든 행동에 책임감있게 임하겠습니다.
-<br><br>
+<br><br><br>
 
 ## 📧 Email
 <img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/xowls5808@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
