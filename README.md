@@ -38,9 +38,6 @@
   <li>:clipboard: <b> ~ 2019년 : 웹애플리케이션 다수 제작 및 유지보수</b></li>
 </ul>
 <br>
-
-## 😄 BaekJoon Profile
-https://solved.ac/profile/xowls5808
 <!--
 **xowlsakffl/xowlsakffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
