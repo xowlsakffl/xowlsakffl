@@ -37,10 +37,14 @@
   <li>:clipboard: <b>2019년 상반기 : 그림 커뮤니티 개발(개인 실습)</b></li>
   <li>:clipboard: <b> ~ 2019년 : 웹애플리케이션 다수 제작 및 유지보수</b></li>
 </ul>
+
+<br>
 <br>
 ## 🧠 Goals
-- 🧩 매일 코딩테스트 3문제 풀이 (백준 / 프로그래머스)
-- 🚀 개인 프로젝트 지속 개발 및 리팩터링
+<ul>
+ <li><b>🧩 매일 코딩테스트 3문제 풀이 (백준 / 프로그래머스)</b></li>
+ <li><b>🚀 개인 프로젝트 지속 개발 및 리팩터링</b></li>
+</ul>
 <!--
 **xowlsakffl/xowlsakffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
