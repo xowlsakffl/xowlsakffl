@@ -110,6 +110,7 @@
 
 | Project | Description | Tech | GitHub |
 |-----------|-------------|----|------|
+| **🎮 GameHub** | 게임 파티 프로젝트, 채팅, 파티 생성, 멤버 관리 등 실시간 커뮤니티 기능 구현 | Spring Boot · React · MySQL | ([https://github.com/xowlsakffl/gameHub-multi-module-](https://github.com/xowlsakffl/gameHub-multi-module-)) |
 | **🛒 이커머스 프로젝트** | 상품, 장바구니, 주문, 결제 흐름 구현 | Spring Boot · React · MySQL | ([https://github.com/xowlsakffl/eCommerce_springboot](https://github.com/xowlsakffl/eCommerce_springboot)) |
 | **💬 SNS 프로젝트** | 게시글, 댓글, 좋아요, 팔로우 기능 구현 | Spring Boot · React · MySQL | ([https://github.com/xowlsakffl/sns_service](https://github.com/xowlsakffl/sns_service)) |
 | **🅿️ 주차장 찾기 서비스** | 주변 주차장 정보 조회 / 위치 기반 서비스 | Spring Boot · MySQL | ([https://github.com/xowlsakffl/parking-recommendation](https://github.com/xowlsakffl/parking-recommendation)) |
