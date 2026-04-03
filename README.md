@@ -18,7 +18,7 @@
 <br><br><br>
 
 ## 📧 Email
-<img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/xowls5808@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
 <br>
 <br>
 
