@@ -55,7 +55,7 @@
 <br>
 
 ## 📌 Featured Projects(실무)
-### 성형/뷰티 레거시 앱/서버 리뉴얼 프로젝트(비공개)
+### 성형/뷰티 레거시 앱/서버 리뉴얼 프로젝트
 - 요구사항 분석 및 리뉴얼 기능 정의
   - 기존 앱/서버 기능 및 운영 프로세스 분석
   - 요구사항 명세서, 유즈케이스 정의서, IA 등 문서 작성
@@ -153,10 +153,6 @@
 | **💬 SNS 프로젝트** | 게시글, 댓글, 좋아요, 팔로우 기능 구현 | Spring Boot · React · MySQL | ([https://github.com/xowlsakffl/sns_service](https://github.com/xowlsakffl/sns_service)) |
 | **🅿️ 주차장 찾기 서비스** | 주변 주차장 정보 조회 / 위치 기반 서비스 | Spring Boot · MySQL | ([https://github.com/xowlsakffl/parking-recommendation](https://github.com/xowlsakffl/parking-recommendation)) |
 | **📝 게시판 서비스** | CRUD, 검색, 페이징, 로그인/회원가입 구현 | Spring Boot · MySQL | ([https://github.com/xowlsakffl/springboot_study_7_board](https://github.com/xowlsakffl/springboot_study_7_board)) |
-| **📦 멀티모듈 프로젝트** | Domain/Service/API 분리 구조 설계 연습 | Spring Boot (Multi-Module) | ([https://github.com/xowlsakffl/springboot_study_multimodule](https://github.com/xowlsakffl/springboot_study_multimodule)) |
-| **🏪 마켓플레이스 프로젝트** | 상품 등록/구매, 카테고리, 관리자 기능 포함 | Laravel · MySQL | ([https://github.com/xowlsakffl/php_laravel_study_marketplace2](https://github.com/xowlsakffl/php_laravel_study_marketplace2)) |
-| **📚 에브리북 커뮤니티** | 북마크, 게시글, 댓글 중심의 소셜 커뮤니티 | Laravel · MySQL | ([https://github.com/xowlsakffl/php_laravel_study_everybook](https://github.com/xowlsakffl/php_laravel_study_everybook)) |
-| **🖋️ 간단 블로그** | 기본 블로그 CRUD / 관리자 기능 포함 | CodeIgniter · MySQL | ([https://github.com/xowlsakffl/php_ci_blog](https://github.com/xowlsakffl/php_ci_blog)) |
 
 
 <!--
