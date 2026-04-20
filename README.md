@@ -77,6 +77,9 @@
   - DDD 기반 설계
     
 **Tech:** PHP(Laravel12), MySQL, Redis, REST API, Next.js, React<br>
+**백엔드** : [[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_zenith_operate](https://github.com/xowlsakffl/beaulab_backend))](https://github.com/xowlsakffl/beaulab_backend)
+**프론트엔드** : [[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_zenith_operate](https://github.com/xowlsakffl/beaulab_frontend))](https://github.com/xowlsakffl/beaulab_frontend)
+---
 
 ### 🚀 광고 자동화 기능 및 📊 광고 통합 관리 시스템
 - 광고 운영자가 매일 반복하던 작업을 자동화  
