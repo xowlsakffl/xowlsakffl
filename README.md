@@ -75,6 +75,8 @@
   - 앱 및 관리자 기능 연동을 위한 API 설계 및 구현
   - 데이터 처리 및 서비스 비즈니스 로직 개발
   - DDD 기반 설계
+ 
+- Codex AI를 사용함
     
 **Tech:** PHP(Laravel12), MySQL, Redis, REST API, Next.js, React<br>
 
