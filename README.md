@@ -6,8 +6,6 @@
 프론트, 서비스 설계, 유지보수, API 개발, 데이터 처리 중심으로 개발 경험을 쌓았습니다.<br>
 특히 <b>에드테크, Saas 플랫폼</b> 개발 분야에 강점이 있습니다.<br>
 
-<br><br><br>
-
 ## 📧 Email
 <img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
 <br>
