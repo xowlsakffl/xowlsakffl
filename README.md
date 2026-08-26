@@ -1,96 +1,162 @@
-# 안민성 | Backend Developer
+![캡처11](https://github.com/user-attachments/assets/658b4a3a-30ab-4517-8e55-8ae0a5db61fd)
 
-광고 자동화, 이커머스, 의료·뷰티 플랫폼을 개발해 온 약 5년 경력의 백엔드 중심 풀스택 개발자입니다.
+# 👋 Intro 
+안녕하세요. 5년차 JAVA, PHP 개발자 안민성입니다.<br>
+에드테크·이커머스·Saas 등 다양한 도메인에서<br>
+프론트, 서비스 설계, 유지보수, API 개발, 데이터 처리 중심으로 개발 경험을 쌓았습니다.<br>
+특히 <b>에드테크, Saas 플랫폼</b> 개발 분야에 강점이 있습니다.<br><br>
 
-Laravel과 CodeIgniter 기반 실무에서 요구사항 분석, 데이터베이스와 API 설계, 관리자 시스템 개발, 외부 API 연동, 배포와 운영까지 수행했습니다. 최근에는 Java·Spring Boot 기반 프로젝트를 통해 객체지향 설계, 인증·권한, 트랜잭션과 동시성 제어 역량을 확장하고 있습니다.
+## 📧 Email
+<img src="https://img.shields.io/badge/ms1114@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
+<br>
+<br>
 
-React와 Next.js 프론트엔드 경험을 바탕으로 화면, API, 데이터 흐름을 하나의 시스템 관점에서 판단하며, 기능 구현 이후의 데이터 정합성, 운영 안정성과 유지보수성까지 함께 고려합니다.
+## ⚒️ Skill
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 
-[Portfolio](https://lupusportfolio.com) · [Email](mailto:ms1114@kakao.com)
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-## What I Do
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=Postman&amp;logoColor=white">
+<br>
+<br>
+<br>
 
-- 기존 서비스와 운영 프로세스를 분석하고 요구사항, 데이터 구조와 기능 흐름을 다시 설계합니다.
-- 역할별 접근 경계와 도메인 책임을 나누고 API와 비즈니스 로직을 구현합니다.
-- 트랜잭션, 행 잠금, 멱등성, 유니크 제약과 큐를 활용해 데이터 정합성을 지킵니다.
-- 광고·결제·SMS·실시간 통신 등 외부 시스템을 연동하고 실패와 재처리를 고려합니다.
-- 관리자 화면부터 배포와 운영까지 연결해 반복 업무와 운영 문제를 개선합니다.
+## 🏢 Career
+<ul>
+  <li>:clipboard: <b>2026년 상반기 : 의료/뷰티 중개 앱 신규 프로젝트 진행 중</b></li>
+  <li>:clipboard: <b>2024년 하반기 ~ 2025년 3월 : 광고대행사 신규 기능 개발 및 유지보수(프리랜서)</b></li>
+  <li>:clipboard: <b>2024년 상반기 : 광고 관리 프로그램 유지보수</b></li>
+  <li>:clipboard: <b>2023년 하반기 : 광고 관리 사용자 커스텀 반복 스케줄러 개발</b></li>
+  <li>:clipboard: <b>2023년 상반기 : DB 관리 프로그램, 페이스북, 카카오, 구글 광고 api 관리 프로그램 개발</b></li>
+  <li>:clipboard: <b>2022년 하반기 : 기존 마켓플레이스 보완(개인 실습), 반려견 플랫폼 유지보수 및 기능 개발(프리랜서)</b></li>
+  <li>:clipboard: <b>2022년 상반기 : 사내 ERP(조직 전산관리)개발</b></li>
+  <li>:clipboard: <b>2021년 하반기 : 백락온 쇼핑몰 개발(관리자 포함)</b></li>
+  <li>:clipboard: <b>2021년 상반기 : 이벤츠팩 홈페이지 제작 RESTful api 솔루션 개발, 다수의 행사 웹사이트 개발(신청, 관리자 기능)</b></li>
+  <li>:clipboard: <b>2020년 하반기 : 마켓플레이스(개인 실습) 개발, 포트폴리오 웹사이트 템플릿 개발(개인 실습)</b></li>
+  <li>:clipboard: <b>2019년 상반기 : 그림 커뮤니티 개발(개인 실습)</b></li>
+  <li>:clipboard: <b> ~ 2019년 : 웹애플리케이션 다수 제작 및 유지보수</b></li>
+</ul>
 
-## Tech Stack
+<br>
 
-**Backend**
+## 📌 Featured Projects(실무)
+### 성형/뷰티 레거시 앱/서버 리뉴얼 프로젝트
+- 요구사항 분석 및 리뉴얼 기능 정의
+  - 기존 앱/서버 기능 및 운영 프로세스 분석
+  - 요구사항 명세서, 유즈케이스 정의서, IA 등 문서 작성
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+- UI/UX 화면 설계
+  - 사용자 및 관리자 화면 구조 설계
+  - 화면설계서 작성
 
-**Data & Infrastructure**
+- 서비스 기능 변경에 맞춘 ERD 설계
+- 앱/관리자 기능 연동을 고려한 데이터 모델 정비
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- 관리자 프론트엔드/백엔드 개발
+  - 관리자 페이지 주요 화면 및 운영 기능 구현
+  - 운영 효율 개선을 위한 관리 기능 개발 및 로직 보완
 
-**Frontend**
+- API 서버 개발
+  - 앱 및 관리자 기능 연동을 위한 API 설계 및 구현
+  - 데이터 처리 및 서비스 비즈니스 로직 개발
+  - DDD 기반 설계
+ 
+- Codex AI를 사용함
+    
+**Tech:** PHP(Laravel12), MySQL, Redis, REST API, Next.js, React<br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+**백엔드** : [[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_zenith_operate](https://github.com/xowlsakffl/beaulab_backend))](https://github.com/xowlsakffl/beaulab_backend)
 
-## Experience
+**프론트엔드** : [[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_zenith_operate](https://github.com/xowlsakffl/beaulab_frontend))](https://github.com/xowlsakffl/beaulab_frontend)
 
-| 기간 | 회사 | 주요 업무 |
-| --- | --- | --- |
-| 2026.01 ~ 현재 | 뷰랩스 | 성형·뷰티 플랫폼 리뉴얼 기획, 백엔드 API와 관리자 시스템 설계·개발 |
-| 2024.05 ~ 2025.03 | 세이브마케팅 | 광고 관리 프로그램 개발·유지보수, 광고 API 연동과 보안 개선 |
-| 2023.01 ~ 2024.04 | 케어랩스 | Google·Kakao·Facebook 광고 데이터 수집과 캠페인 운영 자동화 |
-| 2020.12 ~ 2022.04 | 메씨인터내셔날 | 웹사이트 빌더, 쇼핑몰과 행사 ERP 백엔드 개발 |
-| 2019.06 ~ 2019.11 | 메이크24 | 기업·소상공인 웹사이트 제작과 PHP 서비스 운영·유지보수 |
+---
 
-## Work Projects
+### 🚀 광고 자동화 기능 및 📊 광고 통합 관리 시스템
+- 광고 운영자가 매일 반복하던 작업을 자동화  
+- 조건 기반 캠페인 제어(ON/OFF, 입찰가 조정, 예산 리밋)  
+- 반복 스케줄러 및 자동 모니터링 기능 구축  
+- Google Ads / Kakao / Facebook Ads API 연동  
+- 캠페인 생성 · 수정 · 모니터링 기능  
+- 실시간 성과 데이터를 자동 수집하여 하나의 대시보드로 통합  
+- 운영 효율을 크게 향상시키는 광고 관리 SaaS 형태
+- 실 운영 환경에서 광고 효율 상승에 기여
+    
+**Tech:** PHP(CodeIgniter4), MySQL, jquery, REST API<br>
 
-### 뷰랩 성형·뷰티 플랫폼 리뉴얼
+**Codeignighter Version** : [[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_ci4_zenith](https://github.com/xowlsakffl/php_ci4_zenith))](https://github.com/xowlsakffl/php_ci4_zenith)
 
-기존 앱·서버와 운영 프로세스를 분석한 뒤 Staff, Hospital, Beauty, User의 접근 경계와 도메인 구조를 재설계했습니다. Laravel 12 백엔드와 Next.js 관리자 시스템을 중심으로 병원·의료진·이벤트·지갑·채팅·알림·SMS 기능을 구현하고 있습니다.
+**Java Renewal Version**  : [[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/zenith_java](https://github.com/xowlsakffl/zenith_java))](https://github.com/xowlsakffl/zenith_java) -- **개발중**
 
-- [Backend](https://github.com/xowlsakffl/beaulab_backend)
-- [Frontend](https://github.com/xowlsakffl/beaulab_frontend)
+---
 
-### 제니스 광고 운영 시스템
+### 🔍 광고 유입 데이터 수집 시스템
+- 광고 랜딩/전환 정보를 수집하여 DB로 통합 저장  
+- 대규모 유입 데이터 구조 설계 및 자동 수집 파이프라인 구성  
+- 다양한 광고 채널의 유입 정보를 단일 UI에서 조회 가능  
 
-노후 PHP 환경의 광고 관리 도구를 개선하고 Google·Kakao·Facebook 광고 API, 반복 스케줄러, 캠페인 제어와 성과 데이터 수집을 연결했습니다. 광고 운영 백오피스와 랜딩 유입 데이터 수집 모듈을 역할별 저장소로 분리해 정리했습니다.
+**Tech:** PHP, MySQL
 
-- [광고 운영 백오피스](https://github.com/xowlsakffl/php_ci4_zenith)
-- [광고 랜딩 운영 모듈](https://github.com/xowlsakffl/php_zenith_operate)
+[[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_zenith_operate](https://github.com/xowlsakffl/php_zenith_operate))](https://github.com/xowlsakffl/php_zenith_operate)
 
-### 이벤츠팩 웹사이트 빌더
+---
 
-페이지 조각과 입력 컴포넌트를 조합해 행사 웹사이트를 제작하고, 신청 폼과 관리자 기능까지 구성하는 빌더 솔루션입니다. 빌더 관리자와 사용자 인증·API의 책임을 두 저장소로 분리했습니다.
+### 🛒 백락온 쇼핑몰 개발 (관리자 포함)
+- 상품/재고/주문/결제/회원 관리 기능 개발  
+- 관리자 페이지 및 RESTful API 개발  
+- 실제 운영 가능한 커머스 시스템 구축  
 
-- [빌더 관리자](https://github.com/xowlsakffl/php_laravel_EventPack_admin)
-- [사용자 인증·API](https://github.com/xowlsakffl/php_laravel_EventsPack_dev1)
+**Tech:** PHP(Laravel), MySQL
 
-### 백락온 이커머스
+[[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_laravel_100rakon](https://github.com/xowlsakffl/php_laravel_100rakon))](https://github.com/xowlsakffl/php_laravel_100rakon)
 
-일반 구매, 정기배송과 연계상품의 서로 다른 주문 구조를 설계하고 상품 탐색부터 결제, 주문 이력, SMS 알림과 관리자 처리까지 연결한 Laravel 기반 건강식품 쇼핑몰입니다.
+---
 
-- [Repository](https://github.com/xowlsakffl/php_laravel_100rakon)
+### 🧾 사내 ERP(전산관리) 시스템
+- 행사 비용 산출, 인력/조직 관리 등 사내 업무 전산화  
+- 일정 및 인사 데이터를 연동하여 효율화  
+- 레거시 환경 개선 및 신규 기능 개발 병행  
 
-## Personal Projects
+**Tech:** PHP, MySQL
 
-| 프로젝트 | 핵심 내용 | 저장소 |
-| --- | --- | --- |
-| K-뷰티 플랫폼 | 지역·업종별 업체 탐색과 이벤트·예약으로 확장하는 사업화 프로젝트. Spring Boot 운영 API와 Next.js 관리자 구현 | [Backend](https://github.com/xowlsakffl/platform_backend) · [Frontend](https://github.com/xowlsakffl/platform_frontend) |
-| SNS Service | JWT 인증, 게시글·댓글·좋아요, SSE 알림, 신고·자동 블라인드와 관리자 기능 | [Repository](https://github.com/xowlsakffl/sns_service) |
-| GameHub | 멀티 모듈 Spring Boot, WebSocket 채팅과 파티·멤버 권한 관리 | [Repository](https://github.com/xowlsakffl/gameHub-multi-module-) |
-| GearHub | Spring Boot와 React로 구현한 상품·장바구니·주문 중심 전자제품 이커머스 | [Backend](https://github.com/xowlsakffl/Gearhub_springboot) · [Frontend](https://github.com/xowlsakffl/Gearhub_react) |
-| 주차장 추천 | 위치와 조건을 기준으로 공공 주차장 데이터를 조회·추천하는 Spring Boot 서비스 | [Repository](https://github.com/xowlsakffl/parking-recommendation) |
-| 빗썸 자동매수 | 거래소 API, 주문 전 검증, 일일 예산과 중복 매수 방지를 중심으로 구성한 Python 자동화 | [Repository](https://github.com/xowlsakffl/auth-bithumb-buyer) |
+---
 
-## Contact
+### 🧰 웹사이트 빌더 솔루션
+- 마케팅/행사용 웹사이트를 템플릿 기반으로 자동 생성  
+- 동적 폼 생성, 신청 페이지 · 관리자 페이지를 자동 구성  
+- 행사마다 빠르게 신규 웹사이트 구축 가능  
 
-- Email: [ms1114@kakao.com](mailto:ms1114@kakao.com)
-- Portfolio: [lupusportfolio.com](https://lupusportfolio.com)
+**Tech:** PHP(Laravel), PostgreSQL, React
+
+[[🔗 GitHub 바로가기]([https://github.com/xowlsakffl/php_laravel_EventsPack_dev1](https://github.com/xowlsakffl/php_laravel_EventsPack_dev1))](https://github.com/xowlsakffl/php_laravel_EventsPack_dev1)
+
+<br>
+
+## 📌 Toy & Personal Projects(토이, 개인)
+
+| Project | Description | Tech | GitHub |
+|--------------|-------------|----|------|
+| **🎮 GameHub 프로젝트** | 게임 파티 프로젝트, 채팅, 파티 생성, 멤버 관리 등 실시간 커뮤니티 기능 구현 | Spring Boot · React · MySQL | ([https://github.com/xowlsakffl/gameHub-multi-module-](https://github.com/xowlsakffl/gameHub-multi-module-)) |
+| **🛒 이커머스 프로젝트** | 상품, 장바구니, 주문, 결제 흐름 구현 | Spring Boot · React · MySQL | ([https://github.com/xowlsakffl/eCommerce_springboot](https://github.com/xowlsakffl/eCommerce_springboot)) |
+| **💬 SNS 프로젝트** | 게시글, 댓글, 좋아요, 팔로우 기능 구현 | Spring Boot · React · MySQL | ([https://github.com/xowlsakffl/sns_service](https://github.com/xowlsakffl/sns_service)) |
+| **🅿️ 주차장 찾기 서비스** | 주변 주차장 정보 조회 / 위치 기반 서비스 | Spring Boot · MySQL | ([https://github.com/xowlsakffl/parking-recommendation](https://github.com/xowlsakffl/parking-recommendation)) |
+| **📝 게시판 서비스** | CRUD, 검색, 페이징, 로그인/회원가입 구현 | Spring Boot · MySQL | ([https://github.com/xowlsakffl/springboot_study_7_board](https://github.com/xowlsakffl/springboot_study_7_board)) |
+
+
+<!--
+**xowlsakffl/xowlsakffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
