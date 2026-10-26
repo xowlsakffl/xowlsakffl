@@ -66,7 +66,7 @@
 
 기존 도구와 운영 업무를 분석해 리뉴얼 범위를 정리하고, 광고 매체 API 연동부터 캠페인 자동화, 랜딩 페이지와 신청 데이터 처리까지 개발했습니다. 운영 담당자와 요구사항을 조율하고 배포 후 수집 실패와 광고 API 변경에도 대응했습니다.
 
-- PHP 8·CodeIgniter 4 기반으로 재구성하고 Google·Kakao·Facebook·Naver 광고 데이터를 공통 기준으로 수집·관리
+- PHP 8·CodeIgniter 4 기반으로 재구성하고 Google·Kakao·Facebook 광고 데이터를 API로 수집, Naver를 포함한 매체별 계정·성과 데이터를 통합 조회
 - 조건별 캠페인 상태·예산·목표 전환 자동화와 실행 결과·실패 원인 로그 구현
 - 랜딩 페이지·신청 폼 구성부터 중복 검증, 상태 분류, 외부 제휴사 전송·재전송까지 처리 흐름 연결
 
@@ -100,7 +100,7 @@
 | 프로젝트 | 구현 내용 | 기술 | 저장소 |
 | --- | --- | --- | --- |
 | 빗썸 자동매수 | 거래소 API 연동, 주문 전 검증, 일일 예산과 중복 매수 방지 | Python, ccxt, pandas | [저장소](https://github.com/xowlsakffl/auth-bithumb-buyer) |
-| 게임허브 | 멀티 모듈 서버, WebSocket 채팅, 파티 생성과 멤버 권한 관리 | Spring Boot, React, MySQL | [저장소](https://github.com/xowlsakffl/gameHub-multi-module-) |
+| 게임허브 | 멀티 모듈 백엔드의 채팅·파티·권한 구현. 프론트는 인증·파티 목록·친구 기능까지 연동했고 채팅·파티 관리 화면은 후속 범위 | Spring Boot, React, MySQL | [저장소](https://github.com/xowlsakffl/gameHub-multi-module-) |
 | SNS | JWT 인증, 게시글·댓글·좋아요, SSE 알림, 신고·자동 블라인드와 관리자 기능 | Spring Boot, React, MariaDB, Redis | [저장소](https://github.com/xowlsakffl/sns_service) |
 | 주차장 찾기 | 주소 검색, 거리 계산, 추천 순위와 길안내를 연결한 주차장 추천 | Spring Boot, Handlebars, MariaDB, Kakao Local API | [저장소](https://github.com/xowlsakffl/parking-recommendation) |
-| 기어허브 | 상품·장바구니·주문·결제 흐름을 구현한 전자제품 이커머스 | Spring Boot, React, MySQL | [백엔드](https://github.com/xowlsakffl/Gearhub_springboot) · [프론트엔드](https://github.com/xowlsakffl/Gearhub_react) |
+| 기어허브 | 상품·장바구니·주문·관리자 기능을 구현한 전자제품 이커머스. 실제 결제 승인 없이 주문을 생성하는 데모 결제 제공 | Spring Boot, React, MySQL | [백엔드](https://github.com/xowlsakffl/Gearhub_springboot) · [프론트엔드](https://github.com/xowlsakffl/Gearhub_react) |
